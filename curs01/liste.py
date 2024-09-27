@@ -1,0 +1,12 @@
+lista = [8, 2, 8, "Ana are mere", 4.2, True]
+# print(list[6:7])
+# print(len(lista))
+# print(lista[2:3])
+# print(lista[6: -3])
+# print(lista[2:8])
+# print(lista[2:8:3])
+lista.append(5.6)
+# print(lista.index(8))
+lista.remove(2)
+lista.pop(3)
+print(lista)
